@@ -1,0 +1,11 @@
+#images 를 무시하겠어요
+!images/
+!down
+
+.hwp
+.ppt
+.psd
+.ai
+.jpg
+.png
+.xls
